@@ -4,3 +4,6 @@
 #
 # -- Using Spigot And Minecraft 
 # Version 1.21.7
+
+-- Anti Cheat --
+  #GGintegrity#
